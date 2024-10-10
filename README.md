@@ -1,7 +1,3 @@
-Got it! Here’s an updated version that adds a bit more energy and professionalism while retaining your key skills and tools in DevOps and automation:
-
----
-
 # 💫 About Me
 👋 Hi, I'm Hamza Ghaffar, an enthusiastic IT Engineer with a passion for crafting effective solutions and providing exceptional technical support. With a strong foundation in Information Technology and hands-on experience in networking and software development, I thrive in dynamic environments where innovation and practicality come together.
 
@@ -23,6 +19,3 @@ I'm driven by a passion for innovation and excited to collaborate on projects th
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/calledhamzy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/calledhamzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaghaffar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/calledhamzy) 
 
----
-
-Feel free to let me know if you'd like any further adjustments!
