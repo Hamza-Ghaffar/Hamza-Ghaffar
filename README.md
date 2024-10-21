@@ -21,4 +21,4 @@ I'm driven by a passion for innovation and excited to collaborate on projects th
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/calledhamzy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/calledhamzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaghaffar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/calledhamzy) 
 
-![SD-DEVOPS_LC](https://github.com/user-attachments/assets/b31e9e32-25e3-4bf1-9543-c62c291149c8)
+![DevOps_Lifecycle_S](https://github.com/user-attachments/assets/32e7be44-ab23-4093-88ca-086852595d54)
