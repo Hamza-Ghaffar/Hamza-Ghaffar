@@ -10,7 +10,13 @@
 - **System Architecture**: Knowledgeable in designing and optimizing systems for performance, scalability, and security.
 
 💼 **Professional Experience**:
-- **Datacom Engineer at Huawei**: Contributed to Huawei's success by optimizing network infrastructure and providing Level 2 technical support, handling network configuration, troubleshooting, and performance tuning.
+- ** Software Automation Intern (Full-Time) **: Established a 17-stage EDA data pipeline for chip package board co-design, integrating outputs from 8 EDA tool
+domains into schema-governed AI-ready data products using a Medallion architecture (Bronze, Silver, Gold, Nectar)
+with automated quality gates, documented lineage, and versioned datasets, reducing data discovery and
+preparation time from hours to minutes and improving auditability for downstream analytics and AI.
+
+
+- ** Engineer at Huawei**: Contributed to Huawei's success by optimizing network infrastructure and providing Level 2 technical support, handling network configuration, troubleshooting, and performance tuning.
 
 🌟 **Continuous Learning**: Committed to staying ahead of the curve, I actively pursue certifications such as CCNP and HCIP to enhance my skills and keep up with the latest technologies and methodologies.
 
